@@ -25,7 +25,8 @@ function getListaDePerguntas(){
         "Um filme para ver todos os anos até morrer",
         "Qual o primeiro super-herói(na) que você se lembra?",
         "Qual era seu programa favorito na adolescência?",
-        "Qual objeto da ficção você gostaria de ter de verdade?"
+        "Qual objeto da ficção você gostaria de ter de verdade?",
+        "Que super-herói você gostaria de ter como melhor amigo?"
     ];
 }
 
