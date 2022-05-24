@@ -29,7 +29,8 @@ function getListaDePerguntas(){
         "Que super-herói você gostaria de ter como melhor amigo?",
         "Qual história da ficção científica você acha que vai acontecer no mundo real?",
         "Com que personagem você iria para a balada?",
-        "Qual jogo marcou sua vida?"
+        "Qual jogo marcou sua vida?",
+        "Uma história em quadrinhos que te marcou."
     ];
 }
 
