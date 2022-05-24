@@ -26,7 +26,8 @@ function getListaDePerguntas(){
         "Qual o primeiro super-herói(na) que você se lembra?",
         "Qual era seu programa favorito na adolescência?",
         "Qual objeto da ficção você gostaria de ter de verdade?",
-        "Que super-herói você gostaria de ter como melhor amigo?"
+        "Que super-herói você gostaria de ter como melhor amigo?",
+        "Qual história da ficção científica você acha que vai acontecer no mundo real?"
     ];
 }
 
