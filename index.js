@@ -28,7 +28,8 @@ function getListaDePerguntas(){
         "Qual objeto da ficção você gostaria de ter de verdade?",
         "Que super-herói você gostaria de ter como melhor amigo?",
         "Qual história da ficção científica você acha que vai acontecer no mundo real?",
-        "Com que personagem você iria para a balada?"
+        "Com que personagem você iria para a balada?",
+        "Qual jogo marcou sua vida?"
     ];
 }
 
