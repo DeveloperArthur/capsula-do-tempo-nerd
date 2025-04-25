@@ -111,7 +111,8 @@ function getListaDePerguntas(){
       "Se pudesse mudar algo no seu passado, o que seria?",
       "Qual é o hábito que você gostaria de mudar em si mesmo?",
       "Se você fosse um animal, qual você seria e porque?",
-      "Um filme/série/anime que você odeia mas todo mundo ama"
+      "Um filme/série/anime que você odeia mas todo mundo ama",
+      "se vc pudesse inventar um sabor de miojo, qual seria?"
     ];
   }
 
